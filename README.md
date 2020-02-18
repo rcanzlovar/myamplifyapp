@@ -1,5 +1,8 @@
 # myamplifyapp
 Starting with an example app using React, convert my myCalNotify app over 
+to AWS to prove I can do that. 
+
+## boilerplate
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
